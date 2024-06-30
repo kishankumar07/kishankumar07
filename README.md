@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishan-t-a-2a0578134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-t-a-2a0578134" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kishan-ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-t-a-2a0578134" height="30" width="40" /></a>
 <a href="https://fb.com/thrissur.ghedi.kishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thrissur.ghedi.kishan" height="30" width="40" /></a>
 <a href="https://instagram.com/k_ta_6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ta_6161" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kta6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kta6161" height="30" width="40" /></a>
