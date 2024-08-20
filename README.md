@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on **Building my portfolio website using Tailwind**
+- 🔭 I’m currently working on **Building ReactJs Projects**
 
-- 🌱 I’m currently learning **DSA,SQL,React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://kishanta.in](https://kishanta.in)
 
-- 💬 Ask me about **Node.js, Express.js, MongoDB**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, SQL, DSA**
 
 - 📫 How to reach me **kishantashok@gmail.com**
 
