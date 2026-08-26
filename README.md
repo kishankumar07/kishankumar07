@@ -1,45 +1,143 @@
-![logo](https://github.com/kishankumar07/kishankumar07/blob/main/linkedin_banner2.png)
-
 <h1 align="center">Hi 👋, I'm Kishan T A</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding image" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<h3 align="center">
+  IT Support Specialist | Systems Support | Web Developer
+</h3>
 
-<p align="left"> <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0h0Z-t08VMs1BH5MKWnTmN&ust=1719767444502000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjdpJCngYcDFQAAAAAdAAAAABA2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGI0clpFV3ZlMEdqdl9nbDZQU0Zaa3VERjlDd3xBQ3Jtc0trek1IeG9nRkgycjZIUWJYVVByR0c1dUZXWF9kYmdrNFhNX1RoZmx4ZUlpWjVKZmZlWV9qaUw2SkFCazhZdDJ1SlpXNFRmZDVVelNqSjNMU1M0OGdTTDlRbnZ1YTNtQmNUSUZLX3VQamxiRkdFSHdqRQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)" /> </p>
-
-
-
-- 🔭 I’m currently working on **Building ReactJs Projects**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [https://kishanta.in](https://kishanta.in)
-
-- 💬 Ask me about **Node.js, Express.js, MongoDB, SQL, DSA**
-
-- 📫 How to reach me **kishantashok@gmail.com**
-
-- ⚡ Fun fact **I'm really serious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishan-ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-t-a-2a0578134" height="30" width="40" /></a>
-<a href="https://fb.com/thrissur.ghedi.kishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thrissur.ghedi.kishan" height="30" width="40" /></a>
-<a href="https://instagram.com/k_ta_6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ta_6161" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kta6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kta6161" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kishantashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishantashok" height="30" width="40" /></a>
+<p align="center">
+  Supporting users, managing business technology, and building practical digital solutions.
 </p>
 
+<p align="center">
+  <a href="https://kishanta.in">
+    <img src="https://img.shields.io/badge/Portfolio-kishanta.in-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/kishan-ta">
+    <img src="https://img.shields.io/badge/LinkedIn-Kishan_T_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kishantashok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishankumar07&show_icons=true&locale=en&layout=compact" alt="kishankumar07" /></p>
+- 💼 Currently working as an **IT Specialist and Web Developer in Dubai, UAE**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishankumar07&show_icons=true&locale=en" alt="kishankumar07" /></p>
+- 🖥️ Experienced in **daily IT support, troubleshooting, user administration, Microsoft 365, networking, printers, and endpoint support**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar07&" alt="kishankumar07" /></p>
+- 🏢 Supporting business operations through **IT administration, ERP/Odoo coordination, vendor management, and technical documentation**
 
+- 🌱 Currently developing practical skills in **Windows Server, Active Directory Domain Services, Group Policy, DNS, DHCP, virtualization, and Microsoft Entra ID**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishankumar07" alt="kishankumar07" /></a> </p>
+- 🤖 Exploring **AI tools and automation to improve business workflows and IT operations**
+
+- 🌐 Experienced in developing and maintaining **responsive websites and web applications**
+
+- 🚘 Holder of a valid **UAE Driving Licence**
+
+- 👨‍💻 View my portfolio at **[kishanta.in](https://kishanta.in)**
+
+- 📫 Reach me at **kishantashok@gmail.com**
+
+- ⚡ Fun fact: **I’m seriously committed to solving problems—even when the printer says otherwise.**
+
+---
+
+## 🛠️ IT Support & Systems Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_10_&_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 and 11"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Group_Policy-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="Group Policy"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID"/>
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/DNS-005571?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS"/>
+  <img src="https://img.shields.io/badge/DHCP-005571?style=for-the-badge&logo=serverfault&logoColor=white" alt="DHCP"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Remote_Support-2F80ED?style=for-the-badge&logo=anydesk&logoColor=white" alt="Remote Support"/>
+  <img src="https://img.shields.io/badge/Hardware_Support-555555?style=for-the-badge&logo=dell&logoColor=white" alt="Hardware Support"/>
+</p>
+
+---
+
+## ⚙️ Business Systems & Support
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/ERP_Coordination-4A5568?style=for-the-badge&logo=databricks&logoColor=white" alt="ERP Coordination"/>
+  <img src="https://img.shields.io/badge/IT_Documentation-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="IT Documentation"/>
+  <img src="https://img.shields.io/badge/Vendor_Coordination-34495E?style=for-the-badge&logo=handshake&logoColor=white" alt="Vendor Coordination"/>
+  <img src="https://img.shields.io/badge/Asset_Management-455A64?style=for-the-badge&logo=manageiq&logoColor=white" alt="Asset Management"/>
+  <img src="https://img.shields.io/badge/Technical_Support-0078D4?style=for-the-badge&logo=helpdesk&logoColor=white" alt="Technical Support"/>
+</p>
+
+---
+
+## 🌐 Web Development & Technical Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Windows Server Administration
+├── Active Directory Domain Services
+├── Organizational Units and User Administration
+├── Group Policy Management
+├── DNS and DHCP
+├── File and Folder Permissions
+└── Server and Client Troubleshooting
+
+Cloud and Modern Workplace
+├── Microsoft 365 Administration
+├── Microsoft Entra ID
+├── Identity and Access Management
+├── Endpoint Administration
+└── AI-Assisted Business Automation
+
